@@ -10,7 +10,7 @@ import { getWhatsAppUrl } from "@/lib/utils";
 export default function ContactPage() {
   const [businessType, setBusinessType] = useState("Restaurant / Cafe");
   const [scope, setScope] = useState("Complete 5-Page Website");
-  const [budget, setBudget] = useState("Business Growth (₹14,999)");
+  const [budget, setBudget] = useState("Business Growth (₹8,999 - ₹14,999)");
   const [location, setLocation] = useState("Coimbatore");
   const [customNotes, setCustomNotes] = useState("");
 
@@ -99,9 +99,9 @@ Please let me know your availability and next steps!`;
                   onChange={(e) => setBudget(e.target.value)}
                   className="w-full bg-neutral-900 border border-studio-border rounded-xl px-4 py-3 text-sm text-studio-warm focus:outline-none focus:border-studio-accent"
                 >
-                  <option>Starter Launch (₹7,999)</option>
-                  <option>Business Growth (₹14,999)</option>
-                  <option>Custom Studio (₹24,999+)</option>
+                  <option>Starter Launch (₹4,999 - ₹7,999)</option>
+                  <option>Business Growth (₹8,999 - ₹14,999)</option>
+                  <option>Custom Studio (₹15,999 - ₹24,999)</option>
                   <option>Looking for an exact quote</option>
                 </select>
               </div>

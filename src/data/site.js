@@ -4,16 +4,16 @@
  */
 
 export const siteConfig = {
-  name: "Small Business Website Studio",
-  shortName: "Studio",
+  name: "Genvo Technologies",
+  shortName: "GT",
   tagline: "Websites That Help Small Businesses Grow.",
   description:
     "We build modern, fast, mobile-friendly websites for restaurants, clinics, salons, contractors, retail stores, and service providers across Coimbatore and India.",
   author: "Independent Web Developer",
-  location: "Coimbatore, Tamil Nadu, India",
-  phone: "+91 98765 43210", // Update with your actual WhatsApp business number
-  whatsappNumber: "+91 98765 43210",
-  email: "hello@smallbusinessstudio.in",
+  location: "Tirupur, Tamil Nadu, India",
+  phone: "+91 93608 94998", // Update with your actual WhatsApp business number
+  whatsappNumber: "+91 93608 94998",
+  email: "arunjakkaiyan@gmail.com",
   availability: "Available for new projects this month",
   defaultTurnaround: "5 to 7 days",
   navLinks: [
@@ -26,8 +26,8 @@ export const siteConfig = {
     { label: "Contact", href: "/contact" },
   ],
   socials: {
-    whatsapp: "https://wa.me/919876543210",
-    email: "mailto:hello@smallbusinessstudio.in",
+    whatsapp: "https://wa.me/919360894998",
+    email: "mailto:arunjakkaiyan@gmail.com",
     github: "https://github.com",
     linkedin: "https://linkedin.com",
     instagram: "https://instagram.com",

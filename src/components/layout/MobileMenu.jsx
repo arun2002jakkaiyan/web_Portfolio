@@ -33,9 +33,9 @@ export default function MobileMenu({ isOpen, onClose }) {
               className="flex items-center gap-2.5 font-bold text-lg text-studio-warm"
             >
               <span className="w-8 h-8 rounded-lg bg-studio-accent flex items-center justify-center text-white font-black text-sm">
-                SB
+                GT
               </span>
-              <span>Small Business Studio</span>
+              <span>Genvo technologiees</span>
             </Link>
             <button
               type="button"
@@ -82,7 +82,7 @@ export default function MobileMenu({ isOpen, onClose }) {
             <span>Request a Custom Quote</span>
           </Link>
           <p className="text-center text-xs text-studio-muted pt-2">
-            Based in Coimbatore, Tamil Nadu
+            Based in Tirupur, Tamil Nadu
           </p>
         </div>
       </div>

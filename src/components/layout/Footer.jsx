@@ -8,7 +8,7 @@ import { getWhatsAppUrl } from "@/lib/utils";
 export default function Footer() {
   const whatsappUrl = getWhatsAppUrl(
     siteConfig.whatsappNumber,
-    "Hi! I would like to enquire about building a website for my business in Coimbatore."
+    "Hi! I would like to enquire about building a website for my business in Tirupur."
   );
 
   return (
@@ -19,7 +19,7 @@ export default function Footer() {
           <div className="lg:col-span-2 space-y-4">
             <Link href="/" className="flex items-center gap-2.5">
               <span className="w-9 h-9 rounded-xl bg-studio-accent flex items-center justify-center text-white font-black text-sm">
-                SB
+                GT
               </span>
               <span className="font-bold text-lg text-studio-warm">
                 {siteConfig.name}
@@ -126,7 +126,7 @@ export default function Footer() {
             <span>•</span>
             <span>Zero Lock-in</span>
             <span>•</span>
-            <span>Built in Coimbatore</span>
+            <span>Built in Tirupur, Tamil Nadu</span>
           </div>
         </div>
       </Container>

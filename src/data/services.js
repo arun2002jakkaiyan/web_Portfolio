@@ -91,7 +91,7 @@ export const pricingPackages = [
   {
     id: "starter",
     name: "Starter Launch",
-    price: "₹7,999",
+    price: "₹7,999 - ₹14,999",
     tagline: "Ideal for solo practitioners, small shops & new ventures needing a credible web presence.",
     timeline: "3 - 5 Days",
     features: [
@@ -110,7 +110,7 @@ export const pricingPackages = [
   {
     id: "growth",
     name: "Business Growth",
-    price: "₹14,999",
+    price: "₹14,999 - ₹24,999",
     tagline: "The complete standard for restaurants, clinics, salons, and service contractors.",
     timeline: "5 - 7 Days",
     features: [
@@ -129,7 +129,7 @@ export const pricingPackages = [
   {
     id: "custom",
     name: "Custom Studio",
-    price: "₹24,999",
+    price: "₹24,999 - ₹34,999",
     tagline: "For businesses wanting bespoke visual identities, extensive portfolios, or catalog showcases.",
     timeline: "7 - 12 Days",
     features: [

@@ -27,15 +27,15 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3 group">
               <span className="w-10 h-10 rounded-xl bg-gradient-to-br from-studio-accent to-amber-600 flex items-center justify-center text-white font-black text-base shadow-md group-hover:scale-105 transition-transform">
-                SB
+                GT
               </span>
               <div className="flex flex-col">
                 <span className="font-bold text-base sm:text-lg text-studio-warm tracking-tight group-hover:text-white transition-colors">
-                  Small Business Studio
+                  Genvo Technologies
                 </span>
                 <span className="text-[11px] font-medium text-studio-muted flex items-center gap-1.5">
                   <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-                  Coimbatore & Pan-India
+                  Tirupur & Pan-India
                 </span>
               </div>
             </Link>
